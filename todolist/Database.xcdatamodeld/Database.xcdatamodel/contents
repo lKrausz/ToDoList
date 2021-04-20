@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="20D91" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="ToDoItemModel" representedClassName=".ToDoItemModel" syncable="YES">
+        <attribute name="isCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" defaultValueString="Maybe baybe"/>
+    </entity>
+    <elements>
+        <element name="ToDoItemModel" positionX="-63" positionY="-18" width="128" height="73"/>
+    </elements>
+</model>
